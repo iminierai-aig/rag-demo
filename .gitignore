@@ -1,0 +1,28 @@
+
+# ChromaDB persistent storage (rebuilt from notebook)
+# IDE
+# Jupyter
+# Model cache (downloaded at runtime)
+# OS
+# Python
+# Virtual environment
+*.bin
+*.egg-info/
+*.py[cod]
+*.safetensors
+*.swo
+*.swp
+.DS_Store
+.eggs/
+.idea/
+.ipynb_checkpoints/
+.venv/
+.vscode/
+Thumbs.db
+__pycache__/
+build/
+chroma_store/
+slides/
+dist/
+env/
+venv/
