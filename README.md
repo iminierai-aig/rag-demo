@@ -8,7 +8,7 @@ inside a single Jupyter notebook.
 
 ```bash
 # 1. Clone the repo
-git clone https://github.com/<your-username>/rag-demo.git
+git clone https://github.com/iminierai-aig/rag-demo.git
 cd rag-demo
 
 # 2. Create a virtual environment
