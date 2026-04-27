@@ -107,7 +107,7 @@ Hugging Face that runs on CPU via the standard transformers library.
 - TinyLlama-1.1B: Smaller but significantly weaker at instruction
   following — produces more off-topic or incoherent answers
 - Qwen2.5-0.5B-Instruct: Tiny (0.5B) but too weak for grounded QA —
-  frequently ignores context and hallucates
+  frequently ignores context and hallucinates
 - Phi-3-mini (3.8B): Better quality but needs ~8GB RAM just for
   the model — risky if the reviewer has only 8GB total
 - SmolLM2-1.7B hits the sweet spot: good enough quality, small
