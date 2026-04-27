@@ -54,5 +54,4 @@ See `architecture.md` for component details and design rationale.
 ## Deliverables
 
 - `rag_solution.ipynb` — Interactive notebook demonstrating the full RAG pipeline
-- `slides/` — Presentation deck with architecture diagram and design rationale
-- `architecture.md` — Detailed component documentation
+- `architecture.md` — Detailed component documentation and design rationale
